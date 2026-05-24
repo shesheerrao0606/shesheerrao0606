@@ -12,7 +12,9 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **SDE / ML / Data Science engineer** with **4+ years of experience** crafting scalable systems and intelligent data-driven solutions. I thrive at the intersection of software engineering, machine learning, and data science — turning complex problems into elegant, impactful products.
+I'm a **Software Engineer · ML Engineer · Data Scientist** with **4+ years** of engineering at scale — designing **distributed systems**, building **real-time ML pipelines**, and architecting **data-intensive applications** that hold up under pressure. I think in microservices, reason in CAP theorem, and ship in prod.
+
+From crafting low-latency **REST & gRPC APIs** and **event-driven architectures** with Kafka, to training models that go beyond the notebook and survive real traffic — I bridge the gap between **system design** and **intelligent automation**. Whether it's a horizontally scalable backend, a feature store feeding a recommendation engine, or an end-to-end **MLOps** workflow, I build things that *actually work at scale*.
 
 - 🔭 Currently building production-grade ML pipelines and data engineering solutions
 - 🤖 Love training models that actually work in the real world (not just notebooks!)
